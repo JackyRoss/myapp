@@ -1,0 +1,22 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "This is a Node.js app that will run on localhost:8888",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JackyRoss/myapp.git"
+  },
+  "author": "feng_s",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JackyRoss/myapp/issues"
+  },
+  "homepage": "https://github.com/JackyRoss/myapp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
