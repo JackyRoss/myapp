@@ -2,8 +2,8 @@
 This is a Node.js app that will run on localhost:8888
 
 # pre-install
-Node.js https://nodejs.org/en/download/
-postman https://chrome.google.com/webstore/detail/tabbed-postman-rest-clien/coohjcphdfgbiolnekdpbcijmhambjff?hl=en
+- Node.js https://nodejs.org/en/download/
+- postman https://chrome.google.com/webstore/detail/tabbed-postman-rest-clien/coohjcphdfgbiolnekdpbcijmhambjff?hl=en
 
 # set up
 1. git clone https://github.com/JackyRoss/myapp.git
